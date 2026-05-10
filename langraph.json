@@ -1,0 +1,7 @@
+{
+  "dependencies": ["./backend"],
+  "graphs": {
+    "nexus_workflow": "./backend/agents/workflow_graph.py:graph"
+  },
+  "env": ".env"
+}
