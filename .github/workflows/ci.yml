@@ -22,7 +22,7 @@ jobs:
           pip install ruff
           ruff check backend/
       - name: Run tests
-        run: pytest backend/tests/ -v
+        run: pytest backend/tests/ -v --tb=short
         env:
           DATABASE_URL: sqlite:///./test.db
           REDIS_URL: redis://localhost:6379/0
