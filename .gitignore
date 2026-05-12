@@ -21,3 +21,7 @@ frontend/.env
 Thumbs.db
 .vscode/
 .idea/
+
+# Generated synthetic data
+data/synthetic/*.csv
+data/synthetic/*.json
