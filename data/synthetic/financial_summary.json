@@ -1,0 +1,134 @@
+[
+  {
+    "period": "Q1 2023",
+    "revenue_usd": 4505387,
+    "expenses_usd": 2763681,
+    "profit_usd": 1741706,
+    "profit_margin": 38.66,
+    "headcount": 288,
+    "new_projects": 13,
+    "completed_projects": 8,
+    "ai_investment_usd": 591590
+  },
+  {
+    "period": "Q2 2023",
+    "revenue_usd": 3936586,
+    "expenses_usd": 3134723,
+    "profit_usd": 801863,
+    "profit_margin": 20.37,
+    "headcount": 343,
+    "new_projects": 14,
+    "completed_projects": 3,
+    "ai_investment_usd": 118804
+  },
+  {
+    "period": "Q3 2023",
+    "revenue_usd": 3409889,
+    "expenses_usd": 2601304,
+    "profit_usd": 808585,
+    "profit_margin": 23.71,
+    "headcount": 286,
+    "new_projects": 4,
+    "completed_projects": 9,
+    "ai_investment_usd": 646296
+  },
+  {
+    "period": "Q4 2023",
+    "revenue_usd": 1042834,
+    "expenses_usd": 627912,
+    "profit_usd": 414922,
+    "profit_margin": 39.79,
+    "headcount": 182,
+    "new_projects": 15,
+    "completed_projects": 1,
+    "ai_investment_usd": 311609
+  },
+  {
+    "period": "Q1 2024",
+    "revenue_usd": 1077420,
+    "expenses_usd": 740117,
+    "profit_usd": 337303,
+    "profit_margin": 31.31,
+    "headcount": 264,
+    "new_projects": 13,
+    "completed_projects": 4,
+    "ai_investment_usd": 337286
+  },
+  {
+    "period": "Q2 2024",
+    "revenue_usd": 3889959,
+    "expenses_usd": 3100499,
+    "profit_usd": 789460,
+    "profit_margin": 20.29,
+    "headcount": 338,
+    "new_projects": 8,
+    "completed_projects": 2,
+    "ai_investment_usd": 764263
+  },
+  {
+    "period": "Q3 2024",
+    "revenue_usd": 1056382,
+    "expenses_usd": 657683,
+    "profit_usd": 398699,
+    "profit_margin": 37.74,
+    "headcount": 330,
+    "new_projects": 11,
+    "completed_projects": 8,
+    "ai_investment_usd": 236209
+  },
+  {
+    "period": "Q4 2024",
+    "revenue_usd": 4781084,
+    "expenses_usd": 3471373,
+    "profit_usd": 1309711,
+    "profit_margin": 27.39,
+    "headcount": 259,
+    "new_projects": 7,
+    "completed_projects": 3,
+    "ai_investment_usd": 321224
+  },
+  {
+    "period": "Q1 2025",
+    "revenue_usd": 1558262,
+    "expenses_usd": 990307,
+    "profit_usd": 567955,
+    "profit_margin": 36.45,
+    "headcount": 277,
+    "new_projects": 2,
+    "completed_projects": 3,
+    "ai_investment_usd": 650056
+  },
+  {
+    "period": "Q2 2025",
+    "revenue_usd": 2597834,
+    "expenses_usd": 2096798,
+    "profit_usd": 501036,
+    "profit_margin": 19.29,
+    "headcount": 411,
+    "new_projects": 5,
+    "completed_projects": 4,
+    "ai_investment_usd": 332154
+  },
+  {
+    "period": "Q3 2025",
+    "revenue_usd": 4235195,
+    "expenses_usd": 2981511,
+    "profit_usd": 1253684,
+    "profit_margin": 29.6,
+    "headcount": 479,
+    "new_projects": 14,
+    "completed_projects": 1,
+    "ai_investment_usd": 547126
+  },
+  {
+    "period": "Q4 2025",
+    "revenue_usd": 1909931,
+    "expenses_usd": 1421392,
+    "profit_usd": 488539,
+    "profit_margin": 25.58,
+    "headcount": 387,
+    "new_projects": 14,
+    "completed_projects": 1,
+    "ai_investment_usd": 284639
+  }
+]
