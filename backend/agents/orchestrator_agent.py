@@ -1,6 +1,7 @@
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
 from langsmith import traceable
+from tenacity import retry, stop_after_attempt, wait_exponential
 from backend.agents.base_agent import BaseAgent
 from backend.core.config import settings
 import json
@@ -14,6 +15,7 @@ class OrchestratorAgent(BaseAgent):
             temperature=0.1,
         )
 
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=8))
     @traceable(name="orchestrator_agent")
     async def run(self, input_data: dict) -> dict:
         query = input_data.get("query", "")
@@ -39,7 +41,6 @@ Available agents: document_analyst, data_retrieval, report_generator"""),
         response = await self.llm.ainvoke(messages)
         raw = response.content.strip()
 
-        # Clean JSON if wrapped in markdown
         if raw.startswith("```"):
             raw = raw.split("```")[1]
             if raw.startswith("json"):
@@ -48,7 +49,7 @@ Available agents: document_analyst, data_retrieval, report_generator"""),
         result = json.loads(raw.strip())
         self.log("Query decomposed", subtasks=len(result["subtasks"]))
         return {
-            "agent": self.name,
+            "agent":  self.name,
             "status": "completed",
             "output": result,
         }

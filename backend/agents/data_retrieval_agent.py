@@ -3,7 +3,9 @@ import csv
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
 from langsmith import traceable
+from tenacity import retry, stop_after_attempt, wait_exponential
 from backend.agents.base_agent import BaseAgent
+from backend.agents.tools.web_search import web_search
 from backend.core.config import settings
 
 class DataRetrievalAgent(BaseAgent):
@@ -22,8 +24,8 @@ class DataRetrievalAgent(BaseAgent):
         try:
             with open("data/synthetic/project_reports.json", encoding="utf-8") as f:
                 projects = json.load(f)
-            delayed    = [p for p in projects if p["status"] == "Delayed"]
-            at_risk    = [p for p in projects if p["status"] == "At Risk"]
+            delayed     = [p for p in projects if p["status"] == "Delayed"]
+            at_risk     = [p for p in projects if p["status"] == "At Risk"]
             over_budget = [p for p in projects if p["budget_variance"] > 0]
             context.append(
                 f"PROJECT STATS:\n"
@@ -31,11 +33,10 @@ class DataRetrievalAgent(BaseAgent):
                 f"- Delayed: {len(delayed)}\n"
                 f"- At risk: {len(at_risk)}\n"
                 f"- Over budget: {len(over_budget)}\n"
-                f"Sample delayed projects: "
-                + ", ".join([p["name"] for p in delayed[:3]])
+                f"Sample delayed: " + ", ".join([p["name"] for p in delayed[:3]])
             )
         except Exception as e:
-            context.append(f"Projects: error loading - {e}")
+            context.append(f"Projects: error - {e}")
 
         # Load employee stats
         try:
@@ -47,12 +48,12 @@ class DataRetrievalAgent(BaseAgent):
                 by_dept[e["department"]] = by_dept.get(e["department"], 0) + 1
             context.append(
                 f"EMPLOYEE STATS:\n"
-                f"- Total employees: {len(employees)}\n"
+                f"- Total: {len(employees)}\n"
                 f"- High attrition risk: {len(high_risk)}\n"
                 f"- By department: {json.dumps(by_dept)}"
             )
         except Exception as e:
-            context.append(f"Employees: error loading - {e}")
+            context.append(f"Employees: error - {e}")
 
         # Load financial stats
         try:
@@ -68,29 +69,45 @@ class DataRetrievalAgent(BaseAgent):
                 ])
             )
         except Exception as e:
-            context.append(f"Financials: error loading - {e}")
+            context.append(f"Financials: error - {e}")
+
+        # Web search for live context
+        try:
+            search_query = f"UAE enterprise {query} 2025 best practices"
+            web_results  = web_search(search_query, max_results=2)
+            context.append(f"LIVE WEB CONTEXT:\n{web_results}")
+        except Exception as e:
+            context.append(f"Web search: unavailable - {e}")
 
         return "\n\n".join(context)
 
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=8))
     @traceable(name="data_retrieval_agent")
     async def run(self, input_data: dict) -> dict:
-        task  = input_data.get("task", "")
-        query = input_data.get("query", "")
+        task             = input_data.get("task", "")
+        query            = input_data.get("query", "")
+        document_findings = input_data.get("document_findings", "")
         self.log("Retrieving structured data", task=task)
 
         structured_data = self._load_structured_data(query)
 
         messages = [
             SystemMessage(content="""You are an enterprise data analyst.
-Analyse the structured data provided and extract key metrics and findings
-relevant to the task. Be specific with numbers and percentages."""),
-            HumanMessage(content=f"Task: {task}\n\nData:\n{structured_data}"),
+Analyse the structured data and web context provided.
+Extract key metrics and findings relevant to the task.
+Be specific with numbers and percentages.
+Reference the web context where relevant to add industry benchmarks."""),
+            HumanMessage(content=(
+                f"Task: {task}\n\n"
+                f"Document findings for context:\n{document_findings}\n\n"
+                f"Structured data and web context:\n{structured_data}"
+            )),
         ]
 
         response = await self.llm.ainvoke(messages)
         self.log("Data retrieval complete")
         return {
-            "agent": self.name,
+            "agent":  self.name,
             "status": "completed",
             "output": response.content,
         }
