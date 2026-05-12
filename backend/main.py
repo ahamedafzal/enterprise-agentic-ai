@@ -1,3 +1,16 @@
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+# Load .env FIRST before any langchain imports
+load_dotenv(Path(__file__).parent.parent / ".env")
+
+# Force set LangSmith vars into os.environ immediately
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_API_KEY"]    = os.getenv("LANGCHAIN_API_KEY", "")
+os.environ["LANGCHAIN_PROJECT"]    = os.getenv("LANGCHAIN_PROJECT", "enterprise-agentic-ai")
+os.environ["LANGCHAIN_ENDPOINT"]   = os.getenv("LANGCHAIN_ENDPOINT", "https://api.smith.langchain.com")
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
@@ -31,7 +44,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Register all routers
 app.include_router(auth.router)
 app.include_router(workflow.router)
 app.include_router(agents.router)
