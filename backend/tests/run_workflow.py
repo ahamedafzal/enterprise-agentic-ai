@@ -1,13 +1,14 @@
 import asyncio
-import os
 from dotenv import load_dotenv
+
 load_dotenv()
 
-from backend.agents.workflow_graph import graph
+from backend.agents.workflow_graph import graph  # noqa: E402
+
 
 async def main():
     print("\n🚀 Running NEXUS Agentic Workflow...\n")
-    
+
     initial_state = {
         "query": "Analyse our Q4 project delays, identify the highest risk projects, and generate an executive action plan",
         "subtasks": None,
@@ -27,6 +28,7 @@ async def main():
     print(f"\nSubtasks planned: {len(result.get('subtasks') or [])}")
     print("\n📊 FINAL REPORT:")
     print(result.get("final_report", "No report generated"))
+
 
 if __name__ == "__main__":
     asyncio.run(main())

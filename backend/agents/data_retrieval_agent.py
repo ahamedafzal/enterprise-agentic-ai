@@ -60,7 +60,7 @@ class DataRetrievalAgent(BaseAgent):
                 financials = json.load(f)
             latest = financials[-2:]
             context.append(
-                f"FINANCIAL STATS (latest 2 quarters):\n"
+                "FINANCIAL STATS (latest 2 quarters):\n"
                 + "\n".join([
                     f"- {q['period']}: Revenue ${q['revenue_usd']:,}, "
                     f"Profit margin {q['profit_margin']}%"

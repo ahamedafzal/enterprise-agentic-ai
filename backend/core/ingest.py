@@ -1,6 +1,5 @@
 import json
 import csv
-import os
 import chromadb
 from chromadb.config import Settings as ChromaSettings
 

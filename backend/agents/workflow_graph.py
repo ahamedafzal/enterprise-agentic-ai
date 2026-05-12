@@ -1,7 +1,6 @@
 import os
 from typing import TypedDict, Optional
 from langgraph.graph import StateGraph, END
-from langsmith import traceable
 import structlog
 
 from backend.agents.orchestrator_agent import OrchestratorAgent
