@@ -27,4 +27,9 @@ frontend/.vite/
 # Generated synthetic data
 data/synthetic/*.csv
 data/synthetic/*.json
->>>>>>> theirs
+
+
+frontend/.env.production
+frontend/.env.development
+frontend/dist/
+
