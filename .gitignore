@@ -21,4 +21,10 @@ frontend/.env
 Thumbs.db
 .vscode/
 .idea/
+
 frontend/.vite/
+
+# Generated synthetic data
+data/synthetic/*.csv
+data/synthetic/*.json
+>>>>>>> theirs

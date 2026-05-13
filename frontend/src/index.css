@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --sidebar-width: 240px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #0f1117;
+  color: #e2e8f0;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #1a1f2e; }
+::-webkit-scrollbar-thumb { background: #2d3748; border-radius: 3px; }
+
+/* Markdown styles */
+.markdown h1 { font-size: 1.5rem; font-weight: 600; margin: 1rem 0 0.5rem; color: #e2e8f0; }
+.markdown h2 { font-size: 1.25rem; font-weight: 600; margin: 1rem 0 0.5rem; color: #cbd5e0; border-bottom: 1px solid #2d3748; padding-bottom: 4px; }
+.markdown h3 { font-size: 1rem; font-weight: 600; margin: 0.75rem 0 0.25rem; color: #a0aec0; }
+.markdown p  { margin: 0.5rem 0; line-height: 1.7; color: #cbd5e0; }
+.markdown ul { margin: 0.5rem 0; padding-left: 1.5rem; }
+.markdown li { margin: 0.25rem 0; color: #cbd5e0; line-height: 1.6; }
+.markdown table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+.markdown th { background: #1e293b; padding: 8px 12px; text-align: left; font-weight: 600; color: #94a3b8; border: 1px solid #2d3748; font-size: 0.8rem; }
+.markdown td { padding: 8px 12px; border: 1px solid #2d3748; color: #cbd5e0; font-size: 0.85rem; }
+.markdown tr:hover td { background: #1a2234; }
+.markdown strong { color: #e2e8f0; font-weight: 600; }
+.markdown code { background: #1e293b; padding: 2px 6px; border-radius: 4px; font-size: 0.85em; color: #7dd3fc; }
