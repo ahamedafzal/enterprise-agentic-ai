@@ -25,3 +25,7 @@ Thumbs.db
 # Generated synthetic data
 data/synthetic/*.csv
 data/synthetic/*.json
+
+frontend/.env.production
+frontend/.env.development
+frontend/dist/
