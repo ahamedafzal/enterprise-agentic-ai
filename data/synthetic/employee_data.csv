@@ -1,0 +1,501 @@
+employee_id,name,department,role,email,hire_date,salary_usd,kpi_rating,projects_active,attrition_risk,location
+EMP0001,Christopher Chapman,Finance,Copy,nicholelambert@collier.org,2019-06-06,51556,Needs Improvement,2,Low,Abu Dhabi
+EMP0002,Heather Wilson,Finance,"Engineer, chemical",matthewgibson@marshall-daniels.com,2022-11-07,67790,Critical,1,Low,Dubai
+EMP0003,Michael Smith,Operations,"Lecturer, higher education",renee94@parrish.com,2025-11-13,105990,Exceeds Expectations,5,Low,Remote
+EMP0004,Julie Martin,Operations,Barista,hernandezkristen@flores.com,2020-10-12,162757,Needs Improvement,1,Low,Remote
+EMP0005,Christopher Bush,Sales,Clinical molecular geneticist,etucker@jackson.com,2019-05-10,117842,Meets Expectations,2,Medium,Dubai
+EMP0006,Sarah Fletcher,Finance,"Engineer, civil (contracting)",kenneth16@gates.com,2025-03-11,144595,Exceeds Expectations,3,Medium,Riyadh
+EMP0007,Tracy Huff,Engineering,Environmental education officer,emily43@pittman.biz,2019-07-06,165435,Exceeds Expectations,4,Low,Riyadh
+EMP0008,George Williams,Procurement,"Engineer, manufacturing",ojoyce@hall.org,2024-06-27,139800,Meets Expectations,6,Low,Dubai
+EMP0009,Mitchell Mcdonald,Operations,Veterinary surgeon,jenningsclayton@smith.com,2021-03-07,120861,Exceeds Expectations,2,Low,Remote
+EMP0010,Jessica Wood,AI Research,Restaurant manager,brandyhunt@jordan.biz,2021-02-14,163858,Needs Improvement,2,Medium,Riyadh
+EMP0011,David Thompson,Operations,Architect,colemanronnie@gonzalez-smith.org,2024-10-29,114986,Exceeds Expectations,5,High,Abu Dhabi
+EMP0012,James Wade,Marketing,"Geologist, wellsite",vcarrillo@brady.com,2025-05-03,109175,Meets Expectations,4,Medium,Riyadh
+EMP0013,Carol Moore,Marketing,Customer service manager,matthewsmary@mendez-duncan.org,2021-06-03,102570,Needs Improvement,1,Low,Dubai
+EMP0014,James Dillon,Sales,Nutritional therapist,wmartin@roberts.com,2020-10-24,150162,Needs Improvement,1,Low,Riyadh
+EMP0015,Chase Gonzales,Operations,Equality and diversity officer,andrew48@roberts-montoya.net,2022-09-29,175870,Critical,6,Medium,Abu Dhabi
+EMP0016,Diana Lee,AI Research,Insurance risk surveyor,tmunoz@bowman.com,2019-03-20,81603,Meets Expectations,6,High,Riyadh
+EMP0017,Lisa Johnson,Procurement,Product manager,jstafford@sullivan.com,2019-02-10,157311,Critical,3,Low,Abu Dhabi
+EMP0018,Dana Elliott,Marketing,Insurance broker,ohayes@johnson-haney.org,2022-05-02,174372,Exceeds Expectations,1,Low,Abu Dhabi
+EMP0019,Jennifer Thompson,HR,Radio producer,patricialiu@travis-osborn.com,2021-11-20,155666,Exceeds Expectations,4,Medium,Remote
+EMP0020,Zachary Torres,Marketing,Bookseller,bushsteven@tran.net,2022-02-28,110906,Exceeds Expectations,6,High,Dubai
+EMP0021,Jesse Watson,Marketing,Armed forces technical officer,danielle55@norton.com,2024-01-27,114946,Needs Improvement,1,Medium,Remote
+EMP0022,Mrs. Lisa Herman,HR,Geoscientist,rmiller@anderson.net,2025-05-27,163940,Exceeds Expectations,6,High,Riyadh
+EMP0023,Mr. Samuel Alvarez MD,Marketing,"Librarian, academic",wwhite@morris.info,2019-11-05,91832,Exceeds Expectations,6,Medium,Abu Dhabi
+EMP0024,Luis Johnston Jr.,HR,Careers adviser,sjones@powers-townsend.com,2020-07-19,143019,Meets Expectations,5,High,Dubai
+EMP0025,Heather Rivera,Procurement,Social researcher,nicholashenson@dixon.com,2025-09-09,129975,Critical,1,Low,Riyadh
+EMP0026,Alicia Jackson,AI Research,"Engineer, production",ypittman@stevens.biz,2023-01-08,107770,Exceeds Expectations,2,High,Dubai
+EMP0027,Eric Williams MD,Finance,Records manager,melvin04@taylor.com,2019-05-26,172399,Exceeds Expectations,5,Low,Abu Dhabi
+EMP0028,Rebecca Wilson,Product,"Lighting technician, broadcasting/film/video",larsonmaria@pineda.com,2021-03-02,88287,Needs Improvement,5,High,Remote
+EMP0029,Mia Flowers,Operations,Artist,zacharyphillips@townsend.com,2025-02-26,97730,Needs Improvement,4,High,Riyadh
+EMP0030,Mr. Mark Cochran Jr.,Product,Haematologist,anthony90@harper.biz,2026-01-20,163354,Exceeds Expectations,2,Low,Dubai
+EMP0031,Jennifer Allison,Sales,Tax inspector,qwhite@wilson-shannon.org,2023-05-15,50514,Meets Expectations,5,Low,Dubai
+EMP0032,Danielle Ford,Finance,"Designer, ceramics/pottery",kelli92@ware.com,2019-12-01,60433,Meets Expectations,1,Low,Riyadh
+EMP0033,Courtney Wilson,Finance,"Embryologist, clinical",perezdanny@roth.com,2018-06-22,179782,Meets Expectations,3,High,Remote
+EMP0034,Katelyn Novak,Operations,Logistics and distribution manager,nhoward@owens.biz,2025-03-22,79684,Critical,2,Medium,Remote
+EMP0035,Michelle Johnson,Operations,Radiation protection practitioner,rhonda99@anderson-montoya.com,2023-06-14,69726,Exceeds Expectations,6,Medium,Riyadh
+EMP0036,Veronica Wilson,Legal,Ceramics designer,samuel05@marshall-smith.net,2026-05-08,152767,Critical,6,Low,Dubai
+EMP0037,James Harper,Engineering,Broadcast engineer,emartinez@haynes.com,2025-01-26,150544,Needs Improvement,1,Low,Abu Dhabi
+EMP0038,Victoria Pierce,Operations,Sales executive,dixonamber@holloway.biz,2025-07-19,162601,Meets Expectations,4,Low,Riyadh
+EMP0039,Jennifer Meyer,Product,Landscape architect,connorking@smith-james.com,2022-04-24,110485,Exceeds Expectations,4,High,Dubai
+EMP0040,Spencer Harper,Engineering,Actor,cheryldavis@adams-hernandez.com,2023-09-25,48868,Exceeds Expectations,2,Low,Remote
+EMP0041,Tracey Snyder,Product,Sport and exercise psychologist,dmiller@griffith.org,2021-12-25,171185,Meets Expectations,4,Low,Abu Dhabi
+EMP0042,Courtney Russell,Legal,Chiropractor,charlotteanderson@bradley-wood.com,2021-04-04,45565,Critical,3,Medium,Riyadh
+EMP0043,Kevin Sexton,Legal,Translator,michaelgray@edwards-holland.com,2020-06-01,172577,Meets Expectations,2,Medium,Abu Dhabi
+EMP0044,Ruben Walton,Engineering,Dramatherapist,karenholmes@phillips.com,2018-07-07,60979,Needs Improvement,1,Low,Remote
+EMP0045,Andrew Taylor,Marketing,General practice doctor,olsonamber@williams.info,2025-12-21,86270,Exceeds Expectations,5,Low,Abu Dhabi
+EMP0046,Margaret Best,Finance,Academic librarian,davelynch@hill-flynn.info,2020-11-07,62815,Meets Expectations,4,Low,Abu Dhabi
+EMP0047,Chris Vasquez,Procurement,Optometrist,johnsonanthony@stanton.com,2019-06-12,55418,Exceeds Expectations,4,High,Riyadh
+EMP0048,David Moore,AI Research,"Engineer, drilling",michael08@zimmerman.com,2019-10-07,98545,Needs Improvement,2,Medium,Remote
+EMP0049,Jeffrey Mcbride,HR,Prison officer,bullocklisa@ramos-hopkins.com,2025-04-25,123642,Critical,3,Low,Dubai
+EMP0050,Jason Duncan,Product,"Librarian, academic",judith16@brown.com,2020-11-29,71209,Exceeds Expectations,5,Low,Riyadh
+EMP0051,Todd Rodriguez,HR,Restaurant manager,mariahart@johnson.com,2021-03-24,136490,Exceeds Expectations,2,Medium,Riyadh
+EMP0052,Eugene Johnson,HR,Horticultural therapist,ericamartinez@patterson.com,2020-03-13,159867,Needs Improvement,5,High,Dubai
+EMP0053,Scott Nguyen Jr.,Marketing,Exhibition designer,fmartin@khan.com,2019-05-04,123480,Exceeds Expectations,2,Medium,Dubai
+EMP0054,Carlos Rowe,Finance,Paediatric nurse,kenneth56@daniels-miller.com,2024-10-20,85749,Needs Improvement,3,High,Abu Dhabi
+EMP0055,Thomas Smith,Sales,"Education officer, environmental",bryan61@johnson.info,2025-10-21,98371,Needs Improvement,5,Medium,Riyadh
+EMP0056,Timothy Cunningham,Engineering,Tourist information centre manager,vpatton@velez.com,2020-08-25,69195,Critical,3,Low,Dubai
+EMP0057,Kevin Thompson,Sales,Comptroller,gabriella56@williamson-merritt.org,2019-01-21,79293,Needs Improvement,2,High,Remote
+EMP0058,Daniel Frazier,Marketing,"Solicitor, Scotland",donald23@marsh.com,2023-04-30,157115,Exceeds Expectations,1,Low,Abu Dhabi
+EMP0059,Haley Edwards,Marketing,Radio producer,hsandoval@gordon.com,2022-12-21,54444,Needs Improvement,5,High,Abu Dhabi
+EMP0060,Rebecca Frederick,Legal,Charity fundraiser,jenniferhess@dominguez-taylor.com,2019-10-09,78409,Exceeds Expectations,3,Medium,Dubai
+EMP0061,Antonio Garcia,Sales,"Journalist, newspaper",evan61@ford.biz,2022-06-11,100070,Meets Expectations,6,Low,Riyadh
+EMP0062,Ashley Torres,Marketing,Biomedical engineer,baileyjoseph@johnson-weber.info,2022-03-29,151529,Meets Expectations,2,Low,Abu Dhabi
+EMP0063,Teresa Hall,Legal,Diagnostic radiographer,juliegardner@sharp-hicks.com,2020-02-14,51497,Meets Expectations,6,Medium,Remote
+EMP0064,David Williamson,Operations,"Lecturer, further education",rjones@stephens-melton.com,2019-08-29,114941,Meets Expectations,6,Low,Remote
+EMP0065,Ashley Jennings,Engineering,Health physicist,nhull@graham-nguyen.com,2023-06-28,168388,Meets Expectations,2,Medium,Riyadh
+EMP0066,Shelby Dyer,AI Research,Research scientist (medical),wongdebra@rivera.com,2024-03-15,104662,Meets Expectations,1,High,Abu Dhabi
+EMP0067,Deborah Bean,Legal,Broadcast journalist,xgarcia@reyes.com,2019-08-01,131051,Needs Improvement,1,Medium,Riyadh
+EMP0068,Jessica Allen,Marketing,"Accountant, chartered certified",crystalfrancis@walton.com,2022-04-25,149773,Needs Improvement,1,Low,Riyadh
+EMP0069,Andrew Sawyer,HR,Medical secretary,brownmelissa@barrett.com,2020-11-20,114590,Exceeds Expectations,1,High,Remote
+EMP0070,Brandon Suarez,Sales,"Psychologist, clinical",mariawilson@wagner.org,2023-03-09,127228,Critical,5,High,Dubai
+EMP0071,Mary Campbell,Legal,Commercial horticulturist,tommycampos@johnson.com,2020-12-09,94828,Needs Improvement,1,High,Remote
+EMP0072,Corey Reynolds,Engineering,Television production assistant,patriciamiller@bailey.com,2019-04-25,96651,Needs Improvement,4,Low,Riyadh
+EMP0073,Vanessa Hunt,Procurement,Research scientist (life sciences),jesse94@blair.biz,2026-04-26,127291,Exceeds Expectations,6,Medium,Riyadh
+EMP0074,Richard James,Legal,"Scientist, research (medical)",lbrooks@scott-smith.com,2026-01-10,130506,Critical,6,Medium,Abu Dhabi
+EMP0075,Christopher Barron,Operations,Agricultural consultant,wray@schwartz-norman.com,2020-05-18,155217,Critical,6,High,Abu Dhabi
+EMP0076,Tara Thompson,Procurement,Network engineer,jeffreyrodgers@cole.org,2021-03-05,123892,Critical,5,Low,Riyadh
+EMP0077,Jessica Rhodes,AI Research,Tax inspector,ethan76@thornton.com,2020-02-25,100098,Critical,5,High,Riyadh
+EMP0078,Wesley Rivera,Product,Accounting technician,dhopkins@lopez.com,2022-04-24,160811,Critical,6,Low,Remote
+EMP0079,Gabrielle Baldwin,HR,"Restaurant manager, fast food",jacquelinechang@wiley.com,2020-07-15,67228,Needs Improvement,5,High,Riyadh
+EMP0080,Terri Lam,Finance,"Clinical scientist, histocompatibility and immunogenetics",gbarron@salas.org,2026-01-08,106569,Needs Improvement,2,Low,Abu Dhabi
+EMP0081,Devin Harrell,Engineering,"Horticulturist, amenity",cindyhill@reynolds.com,2026-02-28,57114,Meets Expectations,4,High,Dubai
+EMP0082,Jasmine Ramos,Product,Press photographer,brian69@mueller-welch.com,2024-06-09,153643,Meets Expectations,6,High,Remote
+EMP0083,Jacob Lawson,Product,"Surveyor, commercial/residential",kjames@smith.com,2020-06-30,149766,Meets Expectations,2,High,Dubai
+EMP0084,Stephanie Walters,Finance,Astronomer,baileyandrew@stanley.com,2022-08-11,156449,Meets Expectations,2,High,Remote
+EMP0085,Elizabeth Boyer,Engineering,"Pharmacist, hospital",renee88@carey.com,2019-11-07,110325,Exceeds Expectations,4,Low,Remote
+EMP0086,Ryan Myers,Marketing,Risk analyst,arice@jones-ali.biz,2022-05-19,128177,Critical,5,High,Remote
+EMP0087,Katherine Hanson,Marketing,Electrical engineer,sdean@smith.com,2023-11-17,161893,Meets Expectations,6,Medium,Remote
+EMP0088,Jessica Simpson,AI Research,"Engineer, civil (contracting)",donnakent@yang.net,2024-07-15,109812,Needs Improvement,5,Medium,Abu Dhabi
+EMP0089,Kevin Wells,AI Research,Immunologist,paulwheeler@smith.info,2024-02-28,160309,Exceeds Expectations,6,Medium,Abu Dhabi
+EMP0090,Kendra Campbell,AI Research,Hydrologist,wkelly@wilson.com,2023-09-08,133040,Needs Improvement,5,Low,Abu Dhabi
+EMP0091,Jason Marquez,HR,Media buyer,dianearnold@parsons.com,2020-04-15,105623,Critical,6,Low,Abu Dhabi
+EMP0092,Jimmy Freeman,Finance,"Therapist, speech and language",gjones@bartlett.net,2025-12-24,153755,Critical,3,High,Remote
+EMP0093,James Gomez,Legal,"Engineer, structural",christinesilva@chan.net,2022-07-31,61322,Meets Expectations,4,Medium,Dubai
+EMP0094,Steven Howard,Procurement,Clinical psychologist,avargas@sullivan.net,2022-08-04,144714,Critical,1,Medium,Riyadh
+EMP0095,Erin Bryan,Legal,"Engineer, aeronautical",shelbymurphy@barker.biz,2020-01-13,154843,Meets Expectations,4,Low,Riyadh
+EMP0096,Melissa Higgins DVM,Legal,Rural practice surveyor,rparker@taylor.com,2024-06-14,172308,Exceeds Expectations,4,Medium,Remote
+EMP0097,Jamie Hall,HR,Psychiatrist,tommy07@hunt.com,2026-02-16,167523,Meets Expectations,5,High,Dubai
+EMP0098,Anthony Riley,Legal,Cartographer,dana70@castro-griffin.com,2025-06-14,52104,Exceeds Expectations,6,Medium,Abu Dhabi
+EMP0099,Kim Barnett,Product,Training and development officer,jacqueline04@morales.com,2020-12-07,92639,Exceeds Expectations,3,Medium,Riyadh
+EMP0100,Brian Jenkins,Operations,Special effects artist,benjaminsalazar@johnson-baxter.com,2022-04-19,164196,Needs Improvement,3,Medium,Riyadh
+EMP0101,Timothy White,Legal,Network engineer,franklin08@kim-kline.com,2022-04-25,111131,Exceeds Expectations,4,Low,Dubai
+EMP0102,Leah Lamb,Sales,"Teacher, music",angelvasquez@rodriguez.com,2019-05-07,103778,Exceeds Expectations,6,Low,Dubai
+EMP0103,Melissa Chavez,Operations,Manufacturing systems engineer,bridgetgray@gallegos-hall.info,2022-04-19,97261,Exceeds Expectations,5,Low,Abu Dhabi
+EMP0104,Julia Evans,HR,Television production assistant,michelelopez@mcdonald.org,2021-08-28,169141,Exceeds Expectations,5,Low,Remote
+EMP0105,Brenda Davis,AI Research,Clinical cytogeneticist,xmcgee@baker-reed.com,2019-08-10,141703,Meets Expectations,5,High,Dubai
+EMP0106,Claudia Williams,HR,Geochemist,loretta65@williams-vang.info,2021-05-08,126536,Exceeds Expectations,5,Low,Riyadh
+EMP0107,Nicole Schmidt,Procurement,"Journalist, magazine",karenstephens@shaw.org,2021-04-09,143384,Critical,6,Low,Dubai
+EMP0108,Jennifer Johnson,Procurement,"Pilot, airline",mary13@stevens.com,2019-07-17,108661,Exceeds Expectations,6,Medium,Dubai
+EMP0109,Michael Briggs,Procurement,"Radiographer, diagnostic",tammy25@sullivan.com,2018-12-13,55766,Needs Improvement,5,Medium,Riyadh
+EMP0110,Dillon Martin,Finance,IT sales professional,jessicamclaughlin@williams.com,2024-05-06,177634,Needs Improvement,1,Medium,Remote
+EMP0111,Thomas Shields,Finance,"Engineer, structural",richard08@roman.com,2020-07-03,158645,Needs Improvement,6,Medium,Abu Dhabi
+EMP0112,Janet Hernandez,Legal,Early years teacher,burkewilliam@shaw.com,2024-08-21,91173,Needs Improvement,5,High,Remote
+EMP0113,Raymond Bush,Product,Planning and development surveyor,shoover@nelson.net,2020-12-12,159183,Needs Improvement,3,Low,Dubai
+EMP0114,Jeff Harmon,AI Research,Personnel officer,christinamartinez@oliver.com,2018-12-06,163175,Meets Expectations,4,High,Remote
+EMP0115,Jacob Morris,Sales,Youth worker,jamessimmons@bautista.com,2018-06-09,52523,Critical,3,Low,Remote
+EMP0116,Dana Anderson,Operations,Bonds trader,suzannehoward@young.biz,2023-07-02,138015,Needs Improvement,3,Medium,Riyadh
+EMP0117,Michael Martinez,Marketing,Arts administrator,beverlysanchez@ballard.info,2019-11-09,47661,Meets Expectations,1,Low,Remote
+EMP0118,Jesus Hayes,Product,Warden/ranger,deborah20@castillo.org,2026-03-13,107999,Critical,6,High,Remote
+EMP0119,Debra Howard,Product,Ceramics designer,alexa92@santos-webb.org,2021-09-10,49520,Exceeds Expectations,3,Low,Remote
+EMP0120,Christian Mcdowell,Operations,Interpreter,fwilson@dean-harmon.org,2020-08-13,125270,Needs Improvement,4,High,Riyadh
+EMP0121,Sean Hooper,Legal,Database administrator,vmoreno@sharp.biz,2021-06-14,131714,Needs Improvement,6,Medium,Riyadh
+EMP0122,Brianna Schwartz,AI Research,"Surveyor, building control",ccarney@case-walker.com,2021-12-23,110903,Meets Expectations,1,High,Abu Dhabi
+EMP0123,Brandon Evans,Sales,Publishing rights manager,jarvissteven@velazquez.info,2020-01-25,76340,Meets Expectations,2,Low,Remote
+EMP0124,Carolyn Smith,AI Research,"Journalist, broadcasting",ffranco@hernandez.biz,2020-07-15,119186,Exceeds Expectations,2,Medium,Abu Dhabi
+EMP0125,Teresa Hill,Sales,Learning mentor,colemankathy@davis.com,2024-01-27,92039,Needs Improvement,1,High,Abu Dhabi
+EMP0126,Robert Peterson,AI Research,Animator,wwatson@richards.com,2019-03-19,56931,Exceeds Expectations,5,Medium,Abu Dhabi
+EMP0127,Zachary Garrett,Product,Advertising account executive,farmerpaul@perez.com,2024-04-07,71892,Exceeds Expectations,5,Medium,Remote
+EMP0128,Erika Johnson,Product,Interior and spatial designer,adameaton@baker-evans.biz,2023-03-17,160466,Needs Improvement,2,Low,Riyadh
+EMP0129,Tricia Alexander,Product,Software engineer,michael98@turner.biz,2019-10-03,74907,Exceeds Expectations,4,Medium,Dubai
+EMP0130,Dr. Jason Hunter,Procurement,"Pharmacist, community",timothyyoung@brewer.org,2025-02-07,59053,Meets Expectations,2,High,Riyadh
+EMP0131,Danielle Robinson,Finance,Equality and diversity officer,morgan98@caldwell.com,2020-02-23,110061,Exceeds Expectations,5,Medium,Abu Dhabi
+EMP0132,Melissa Bush,Marketing,Diplomatic Services operational officer,christopher73@holmes.org,2024-02-17,144713,Critical,4,Medium,Remote
+EMP0133,Ryan Gonzalez,AI Research,Outdoor activities/education manager,melissa91@franklin.org,2019-10-08,60789,Exceeds Expectations,2,High,Abu Dhabi
+EMP0134,Michael Anthony,AI Research,Customer service manager,taylorlewis@young.com,2024-01-14,66282,Meets Expectations,2,Low,Dubai
+EMP0135,Kristen Johnston,HR,Medical technical officer,nchang@moran-house.com,2018-05-22,45701,Critical,4,High,Remote
+EMP0136,Jennifer Brown,AI Research,"Therapist, sports",morgan48@hill.com,2024-10-18,53556,Meets Expectations,3,High,Riyadh
+EMP0137,Alison Wood,Product,Advertising art director,marieking@lopez.com,2021-04-03,63659,Meets Expectations,3,High,Abu Dhabi
+EMP0138,Victoria Weaver,Legal,Futures trader,cynthiaedwards@schmidt-payne.com,2020-04-27,75087,Meets Expectations,6,Low,Riyadh
+EMP0139,Michelle Allison,HR,"Accountant, chartered certified",michaeljordan@turner-flores.com,2025-04-30,63719,Exceeds Expectations,2,Medium,Riyadh
+EMP0140,Jacob Dixon,Product,Colour technologist,loriwilkerson@james.biz,2021-08-20,77598,Critical,6,Medium,Remote
+EMP0141,Natalie Jordan,AI Research,"Surveyor, insurance",zhaynes@adams.net,2018-10-06,176195,Critical,4,Low,Dubai
+EMP0142,Tiffany Anderson,Legal,Arboriculturist,ericharvey@hanna.org,2020-08-05,129494,Needs Improvement,1,Low,Abu Dhabi
+EMP0143,Jessica Jones,Procurement,Government social research officer,steven11@patterson.biz,2024-04-05,50438,Needs Improvement,5,Low,Abu Dhabi
+EMP0144,Holly Green,Product,"Accountant, chartered management",floresroberto@williams.biz,2019-02-24,160927,Needs Improvement,2,High,Remote
+EMP0145,Amy Rhodes,Product,Equality and diversity officer,michaelweeks@holt.biz,2019-06-12,68918,Critical,3,Medium,Riyadh
+EMP0146,Alyssa Reyes,Sales,Records manager,alexandrahorne@lopez.biz,2024-11-27,72420,Meets Expectations,3,Medium,Remote
+EMP0147,Alex Berry,AI Research,"Administrator, education",morsebrandi@browning-mccarty.com,2018-07-22,149976,Exceeds Expectations,4,Low,Riyadh
+EMP0148,Felicia Johnson,AI Research,Armed forces training and education officer,clong@cardenas.com,2023-10-16,129744,Exceeds Expectations,4,High,Dubai
+EMP0149,Karen Cummings,Marketing,Publishing rights manager,spencerwoods@torres-smith.com,2026-01-01,166104,Critical,1,Low,Riyadh
+EMP0150,Melissa Nguyen,Procurement,"Conservator, museum/gallery",schmidtstephen@gibson.org,2023-01-31,175676,Critical,1,Low,Riyadh
+EMP0151,Anne Gibson,Marketing,Fast food restaurant manager,huangcheryl@krueger.com,2025-04-04,79344,Needs Improvement,4,High,Remote
+EMP0152,Leslie Stewart,Finance,Dramatherapist,mary69@orozco-garcia.com,2020-02-11,52567,Meets Expectations,6,Low,Riyadh
+EMP0153,Morgan Williams,Marketing,Barrister,vhorton@rios-shah.com,2023-07-29,48584,Critical,1,Low,Dubai
+EMP0154,Joshua Lowery,Product,Medical physicist,audreyfoster@lutz-king.com,2018-10-20,75793,Meets Expectations,4,High,Riyadh
+EMP0155,Christopher Cameron,Marketing,Theme park manager,qanderson@harris.biz,2019-09-12,116676,Critical,4,Medium,Abu Dhabi
+EMP0156,Erica Miller,Product,Dance movement psychotherapist,andrew50@davis.com,2023-02-20,82917,Critical,2,High,Abu Dhabi
+EMP0157,Kimberly Dominguez,Finance,"Editor, magazine features",reevessamantha@robles-williams.com,2021-03-01,117416,Critical,3,High,Riyadh
+EMP0158,Joseph Rivera,Engineering,Phytotherapist,moorelisa@martinez.org,2019-06-25,119144,Needs Improvement,5,High,Remote
+EMP0159,Linda Murphy,HR,"Designer, interior/spatial",tyler50@mills.com,2019-05-27,162059,Critical,3,Medium,Remote
+EMP0160,Eric Willis,Product,Amenity horticulturist,aprilrichard@fletcher.com,2020-07-19,129352,Meets Expectations,6,Low,Remote
+EMP0161,Robert Thomas,Operations,"Radiographer, therapeutic",meyerschristopher@rogers.net,2026-02-05,152682,Exceeds Expectations,3,High,Remote
+EMP0162,Susan Thompson,Legal,"Designer, industrial/product",hansentyler@obrien.com,2023-08-23,146208,Meets Expectations,4,Low,Abu Dhabi
+EMP0163,William Smith,Marketing,"Designer, blown glass/stained glass",amy35@contreras.com,2023-07-27,132030,Exceeds Expectations,4,Low,Remote
+EMP0164,Angela Wilcox,Engineering,General practice doctor,hannah67@brown.net,2022-03-08,82789,Critical,6,Low,Dubai
+EMP0165,Madison Ross,Product,Commercial/residential surveyor,knightshawna@rodriguez.biz,2024-08-09,114474,Needs Improvement,5,High,Remote
+EMP0166,David Martin,Finance,Advertising account executive,christinawilson@mccarthy.com,2018-09-09,131131,Critical,3,High,Remote
+EMP0167,Jane Romero,Marketing,Risk manager,santiagocheyenne@francis-li.com,2021-08-31,54410,Exceeds Expectations,2,High,Riyadh
+EMP0168,Megan Dunlap,Operations,"Optician, dispensing",denise52@kennedy-diaz.org,2024-05-05,68692,Critical,1,High,Dubai
+EMP0169,Brian Brown,Product,"Administrator, arts",psilva@phelps.com,2024-01-11,88611,Needs Improvement,1,Low,Riyadh
+EMP0170,Patricia Reed,Engineering,Audiological scientist,susanmoore@young.org,2021-12-07,121904,Needs Improvement,3,Medium,Abu Dhabi
+EMP0171,Kristen Conley,Operations,Biomedical engineer,mark39@montgomery-evans.com,2024-10-17,153016,Meets Expectations,2,Low,Dubai
+EMP0172,Donald Parsons,Procurement,Associate Professor,randall31@davis.com,2021-05-20,145281,Meets Expectations,4,High,Abu Dhabi
+EMP0173,Brian Delgado,Operations,Trading standards officer,kcombs@warner.biz,2025-04-23,165887,Needs Improvement,4,Medium,Dubai
+EMP0174,Christine Shaffer,Product,Retail banker,heathermiller@vega.info,2021-02-28,120400,Meets Expectations,1,Medium,Riyadh
+EMP0175,Nicholas Potts,Procurement,Risk manager,wilsonchristopher@jones-rodgers.com,2019-11-14,123421,Critical,6,Medium,Remote
+EMP0176,Kathy Ingram,AI Research,"Surveyor, commercial/residential",asandoval@williamson.com,2022-09-02,97223,Critical,4,Low,Abu Dhabi
+EMP0177,Tanya Boyd,Legal,Herpetologist,michael41@lee-odom.net,2021-03-07,139098,Needs Improvement,6,Medium,Dubai
+EMP0178,James Dominguez,Legal,Lawyer,opatterson@marshall-martin.com,2022-06-21,116953,Exceeds Expectations,5,High,Dubai
+EMP0179,Russell Holmes,Procurement,Heritage manager,wstanley@schmitt.com,2025-01-27,175214,Needs Improvement,2,High,Riyadh
+EMP0180,Samantha Butler,Operations,Call centre manager,tiffanymccarty@bonilla.com,2026-01-26,94841,Needs Improvement,6,High,Abu Dhabi
+EMP0181,Michelle Knapp,Finance,Production manager,michael25@pruitt.com,2024-11-15,55334,Needs Improvement,4,Low,Riyadh
+EMP0182,Alyssa Williams,HR,"Nurse, mental health",tiffany60@rogers.com,2022-04-19,68627,Needs Improvement,3,High,Remote
+EMP0183,Stephanie Orozco,HR,"Radiographer, therapeutic",jessica30@hudson.info,2022-03-21,97637,Meets Expectations,5,Medium,Riyadh
+EMP0184,Lori Smith,HR,"Therapist, nutritional",jenkinsdonna@walters.com,2022-02-07,112363,Critical,3,High,Riyadh
+EMP0185,Jacob Wilson,Finance,Forensic psychologist,catherinemullins@robles.com,2023-04-03,167770,Exceeds Expectations,2,Low,Remote
+EMP0186,Phillip Gates,Marketing,Consulting civil engineer,maddenkristin@lindsey.com,2019-07-20,140885,Exceeds Expectations,4,Low,Riyadh
+EMP0187,Veronica Benjamin,Marketing,Bookseller,tristan15@travis.com,2025-01-26,77398,Critical,3,High,Riyadh
+EMP0188,Kevin Davis,Procurement,Merchant navy officer,cookegordon@schultz.com,2023-03-30,144883,Needs Improvement,1,High,Abu Dhabi
+EMP0189,John Gardner,Product,Forest/woodland manager,donaldhanson@martin.biz,2021-07-29,51560,Needs Improvement,5,Low,Dubai
+EMP0190,Mark Bennett,Product,Operational researcher,kweaver@smith.com,2024-10-31,124217,Critical,1,Low,Dubai
+EMP0191,Brandon Clark,Engineering,"Surveyor, building",rmonroe@rodriguez-burke.com,2022-02-13,124787,Critical,1,Low,Abu Dhabi
+EMP0192,Clayton Rodriguez,Marketing,Furniture conservator/restorer,harveykenneth@robbins.biz,2019-01-17,80563,Critical,4,Medium,Remote
+EMP0193,Maria Rodriguez,Procurement,Advertising account executive,brendajones@taylor-kennedy.com,2022-01-24,85507,Critical,6,Low,Remote
+EMP0194,Jordan Gray,Procurement,Therapeutic radiographer,gregory98@raymond.com,2023-08-02,151985,Needs Improvement,1,High,Riyadh
+EMP0195,Scott Vincent,Operations,Catering manager,mcfarlandjennifer@harmon.com,2025-09-06,161230,Critical,2,Medium,Dubai
+EMP0196,Zachary Mendez,Sales,Fine artist,amy62@white-ray.info,2025-05-19,139024,Exceeds Expectations,4,Medium,Abu Dhabi
+EMP0197,Dean Campbell,Finance,Contractor,ggonzalez@barber-gentry.com,2021-10-18,164201,Exceeds Expectations,6,Low,Dubai
+EMP0198,Edward Miranda,Engineering,"Production assistant, television",laceyshaw@wall-davis.com,2022-12-30,132427,Meets Expectations,2,High,Abu Dhabi
+EMP0199,Dylan Cobb,Finance,Herpetologist,amandacruz@cannon.com,2025-10-28,99305,Meets Expectations,2,Medium,Abu Dhabi
+EMP0200,Juan Peterson,Procurement,"Biochemist, clinical",zatkins@sims.com,2020-09-26,45743,Needs Improvement,2,Low,Riyadh
+EMP0201,Teresa Becker,HR,"Civil engineer, contracting",jkelley@valencia-esparza.com,2025-02-01,73816,Exceeds Expectations,2,Low,Riyadh
+EMP0202,Keith Hill,Operations,Sales promotion account executive,andrewpratt@sanchez-morris.net,2021-05-08,129874,Exceeds Expectations,2,Medium,Dubai
+EMP0203,Lori Walker,HR,Mental health nurse,fcook@reyes.info,2025-10-30,155352,Exceeds Expectations,6,Low,Remote
+EMP0204,David Hernandez,Product,Conference centre manager,amanda45@fritz-rodriguez.com,2022-05-23,139906,Exceeds Expectations,4,High,Abu Dhabi
+EMP0205,Alexis Dominguez,Procurement,Chiropodist,michael57@gardner-wagner.com,2024-07-06,56367,Needs Improvement,4,High,Dubai
+EMP0206,Stanley Ramirez,Engineering,Quarry manager,millerchristopher@johnson.com,2026-03-03,170562,Critical,4,High,Dubai
+EMP0207,Devin Vargas,Product,Archivist,uburton@tapia.info,2019-07-25,161277,Exceeds Expectations,1,Medium,Abu Dhabi
+EMP0208,Kevin Herrera,Finance,Broadcast engineer,pthompson@smith.com,2019-12-28,78080,Needs Improvement,5,High,Riyadh
+EMP0209,Kristie Howard MD,Legal,"Journalist, newspaper",mark35@owens.info,2022-10-06,122305,Critical,5,High,Remote
+EMP0210,Kathy Robertson,Finance,"Radiographer, therapeutic",ortizandrew@jones.com,2024-12-12,74992,Meets Expectations,4,Medium,Abu Dhabi
+EMP0211,David Greene,Legal,"Sound technician, broadcasting/film/video",michaelthomas@taylor.com,2025-09-14,133848,Critical,4,Medium,Dubai
+EMP0212,Kelly Stanley,Sales,"Programmer, applications",wandascott@adams.net,2020-11-14,156873,Needs Improvement,6,Medium,Riyadh
+EMP0213,Dawn Wilson,HR,Computer games developer,ewilliams@smith-brown.biz,2021-08-09,169326,Exceeds Expectations,1,Low,Dubai
+EMP0214,Paula Hughes,Legal,Mental health nurse,eperez@garza-anderson.com,2018-08-15,70313,Needs Improvement,2,High,Dubai
+EMP0215,Darrell Jennings,Procurement,Careers information officer,reyessherri@lewis.org,2023-02-21,131414,Exceeds Expectations,4,Medium,Remote
+EMP0216,Shawn Wise,Engineering,Probation officer,sabrina94@chavez.com,2026-02-07,120400,Needs Improvement,3,Low,Abu Dhabi
+EMP0217,Amanda Mejia,HR,Jewellery designer,xhale@scott.net,2024-12-26,171403,Meets Expectations,1,Medium,Riyadh
+EMP0218,Laura Harris,Finance,Barrister,maddenzachary@williams.com,2023-01-26,118024,Meets Expectations,4,High,Dubai
+EMP0219,Mandy Lewis,Procurement,Industrial buyer,devonstanley@dyer.com,2020-04-02,115109,Exceeds Expectations,2,Medium,Riyadh
+EMP0220,Amanda Schmidt,Sales,"Engineer, structural",mcarr@rios.com,2024-10-15,137018,Exceeds Expectations,2,Low,Remote
+EMP0221,Nicole Wright,Finance,Nature conservation officer,thomasknight@watson.com,2025-06-29,82191,Exceeds Expectations,1,High,Abu Dhabi
+EMP0222,James Bailey,Legal,Artist,garciarobert@beasley-jackson.info,2018-08-14,155056,Critical,3,Low,Riyadh
+EMP0223,Mitchell Mckee,AI Research,Immunologist,josephwalsh@long.com,2023-10-23,130035,Exceeds Expectations,1,Low,Abu Dhabi
+EMP0224,Kimberly Wilson,Procurement,"Engineer, maintenance",tanya75@johnson.biz,2022-07-12,58044,Exceeds Expectations,3,Medium,Remote
+EMP0225,Kelsey Hodges,Product,"Psychotherapist, dance movement",joshua73@diaz.com,2021-11-28,160879,Critical,3,Low,Dubai
+EMP0226,Craig Adams,Sales,"Nurse, mental health",thomas91@ortiz.com,2020-09-17,157699,Exceeds Expectations,3,High,Remote
+EMP0227,Amanda Murphy,Marketing,"Engineer, structural",gonzalesthomas@bennett-morgan.com,2018-10-07,125850,Exceeds Expectations,2,Medium,Dubai
+EMP0228,Tammie Quinn,Engineering,Product/process development scientist,wallkathy@hernandez.com,2021-06-08,98588,Needs Improvement,2,Low,Riyadh
+EMP0229,Scott Padilla,AI Research,Dancer,mendezthomas@russo.com,2022-10-27,131015,Exceeds Expectations,1,Medium,Remote
+EMP0230,Michelle Thomas,HR,Air broker,nielsenbeth@nguyen.com,2021-01-06,78865,Critical,5,High,Abu Dhabi
+EMP0231,Heather Jacobs,Marketing,Barrister,dgarcia@harris.info,2020-03-18,137842,Exceeds Expectations,4,High,Dubai
+EMP0232,Jeffrey Scott,Legal,"Optician, dispensing",bishopbrittany@douglas-duarte.com,2023-07-04,49912,Critical,1,Medium,Remote
+EMP0233,Brandon Patton,Procurement,Medical illustrator,morganriley@olson-sullivan.com,2024-03-23,151017,Critical,3,Low,Remote
+EMP0234,Donald Graham,Engineering,Comptroller,stewartsylvia@ashley-morrison.com,2022-02-03,130136,Meets Expectations,5,Medium,Riyadh
+EMP0235,John Parker,Finance,"Education officer, museum",jason43@newton.com,2021-09-22,159481,Exceeds Expectations,2,Medium,Remote
+EMP0236,Mitchell Fox,Marketing,Merchant navy officer,sarah48@armstrong-fitzpatrick.com,2022-04-07,65616,Critical,3,High,Riyadh
+EMP0237,Debra Mcconnell,Operations,"Programmer, systems",juarezderek@phillips.info,2025-10-05,132311,Meets Expectations,1,High,Dubai
+EMP0238,Daniel Howard,Marketing,Investment analyst,stephencosta@swanson.com,2022-11-02,178680,Meets Expectations,3,Medium,Abu Dhabi
+EMP0239,John Castillo,Operations,Museum/gallery conservator,fdominguez@lloyd-davidson.com,2024-12-26,71949,Meets Expectations,3,Low,Abu Dhabi
+EMP0240,Jennifer Hodges,Procurement,"Accountant, chartered",rachelallen@livingston-murphy.com,2020-04-22,85073,Exceeds Expectations,2,High,Remote
+EMP0241,Aaron Brown,Product,TEFL teacher,victor16@holloway-herrera.com,2018-09-03,162677,Needs Improvement,6,Medium,Abu Dhabi
+EMP0242,James Collier,Product,"Engineer, broadcasting (operations)",rosewilliam@golden-carson.com,2021-09-03,62900,Critical,4,High,Riyadh
+EMP0243,Alexandra Lopez,AI Research,Mental health nurse,nguyenpaul@smith-perry.com,2022-09-13,59725,Needs Improvement,5,Low,Riyadh
+EMP0244,Christina Parrish,Product,"Secretary, company",jordanlee@wilson.biz,2025-01-09,163466,Exceeds Expectations,1,Medium,Riyadh
+EMP0245,Jay Gonzalez,Finance,Musician,jared15@shelton.com,2020-12-26,68670,Critical,4,High,Dubai
+EMP0246,Brittney Thompson,Product,"Designer, ceramics/pottery",marcus82@dixon.com,2024-04-08,94345,Needs Improvement,5,Medium,Abu Dhabi
+EMP0247,Mr. William Rogers II,Engineering,Contracting civil engineer,tiffany92@holt.info,2025-04-15,163101,Exceeds Expectations,3,High,Dubai
+EMP0248,Sarah Kidd,Marketing,"Scientist, research (physical sciences)",mitchellwilliamson@ryan-phillips.com,2024-09-18,90235,Exceeds Expectations,2,High,Remote
+EMP0249,John Johnson,Product,Diplomatic Services operational officer,leah22@cohen.org,2021-02-10,86614,Needs Improvement,3,Medium,Remote
+EMP0250,Leslie Rhodes,Legal,Equality and diversity officer,john60@anderson.com,2024-06-23,133700,Exceeds Expectations,6,High,Riyadh
+EMP0251,Joseph Garcia,Finance,Telecommunications researcher,alexandracastaneda@wilson-case.com,2022-01-01,131426,Exceeds Expectations,5,High,Remote
+EMP0252,Bailey Anderson,AI Research,"Engineer, manufacturing systems",adam92@martinez-frank.com,2024-01-09,111059,Meets Expectations,3,Low,Abu Dhabi
+EMP0253,Lindsay Thompson,Sales,Immunologist,brittanyadams@rodriguez.net,2024-09-24,126325,Critical,2,High,Dubai
+EMP0254,Lisa Abbott,AI Research,Heritage manager,melissa15@simmons-andrews.org,2023-01-13,143744,Needs Improvement,2,High,Dubai
+EMP0255,David Bruce,Legal,Aeronautical engineer,danielburgess@oconnell.com,2018-10-04,178297,Needs Improvement,1,Medium,Riyadh
+EMP0256,Aaron Garner,HR,"Surveyor, building control",cookderrick@brooks.biz,2019-12-12,101149,Needs Improvement,4,Low,Abu Dhabi
+EMP0257,Ricky Castillo,HR,Building services engineer,nwise@ward.com,2019-07-28,85617,Exceeds Expectations,3,Low,Dubai
+EMP0258,Erin Bennett,Sales,Immunologist,ryan45@ramirez.com,2019-05-11,79353,Critical,2,Low,Abu Dhabi
+EMP0259,Nicole Randolph,Procurement,Copy,lcarr@miller.com,2021-03-14,88395,Critical,1,Medium,Riyadh
+EMP0260,Joseph Sanchez,Operations,"Engineer, aeronautical",leonardchad@gray.com,2018-11-14,161444,Needs Improvement,6,Medium,Abu Dhabi
+EMP0261,Brad Mclean,Marketing,"Engineer, manufacturing",campbellbrian@baker.info,2021-09-17,107696,Needs Improvement,4,Low,Riyadh
+EMP0262,Cody Johnston,Procurement,Contractor,charlesshaffer@green.com,2020-06-10,160499,Critical,3,Medium,Remote
+EMP0263,Isaac Jones,HR,Health physicist,richardswilliam@conrad.net,2023-08-05,97349,Meets Expectations,3,Low,Remote
+EMP0264,Ricky Hodges,Sales,Industrial/product designer,ubecker@jones.org,2021-10-05,71893,Exceeds Expectations,3,Low,Abu Dhabi
+EMP0265,Christopher Rodriguez,AI Research,International aid/development worker,bobby11@flores.net,2022-04-15,162786,Meets Expectations,4,Low,Abu Dhabi
+EMP0266,Lauren Cook,Product,Petroleum engineer,jerry92@rodriguez.com,2022-04-08,136641,Exceeds Expectations,4,Low,Remote
+EMP0267,Ashley Brown,Marketing,Water engineer,bensonashley@vasquez-yang.com,2026-04-22,143031,Meets Expectations,4,Low,Riyadh
+EMP0268,Rita Cain,Operations,"Producer, radio",sherry44@johnson.net,2018-11-12,52389,Needs Improvement,1,High,Riyadh
+EMP0269,Kevin Allison,HR,Photographer,smithvalerie@trujillo.com,2025-11-04,81070,Exceeds Expectations,3,Medium,Abu Dhabi
+EMP0270,Tammy Benjamin,Product,Contractor,zachary69@marks.com,2019-11-08,162598,Exceeds Expectations,1,Low,Riyadh
+EMP0271,Scott Hamilton,Operations,Fish farm manager,oscarrodriguez@horton.com,2021-10-23,84195,Critical,1,Medium,Abu Dhabi
+EMP0272,Christopher Ward Jr.,AI Research,Chief Operating Officer,huntdanielle@richardson-davis.biz,2023-07-02,76941,Exceeds Expectations,2,Medium,Remote
+EMP0273,Cindy Martin,Finance,Acupuncturist,lyoung@khan.com,2018-12-18,74060,Critical,5,High,Dubai
+EMP0274,Allison Walker,Marketing,Building control surveyor,tyler86@white.net,2022-03-27,108422,Meets Expectations,3,Medium,Dubai
+EMP0275,Robert York,Procurement,Magazine journalist,cassandraprice@johnson-patton.com,2024-02-04,137488,Meets Expectations,5,Medium,Abu Dhabi
+EMP0276,Briana Fletcher,Finance,"Engineer, energy",anneblack@moore.net,2021-04-23,139530,Exceeds Expectations,5,High,Dubai
+EMP0277,Matthew Fleming,Legal,Advertising account executive,scottwendy@russell.net,2025-04-29,168243,Exceeds Expectations,6,Medium,Riyadh
+EMP0278,Pamela Espinoza,AI Research,Cabin crew,nhart@chen-harper.org,2024-03-04,49257,Needs Improvement,1,Medium,Abu Dhabi
+EMP0279,Ann Walsh,Finance,Press sub,oli@jones.com,2021-02-02,132167,Meets Expectations,1,Medium,Riyadh
+EMP0280,Zachary Day,HR,Interpreter,alyssawalton@sanchez-ryan.info,2023-11-06,166798,Critical,6,Low,Abu Dhabi
+EMP0281,Frank Young,Finance,"Scientist, water quality",dana81@young.com,2024-10-02,164977,Exceeds Expectations,3,Low,Dubai
+EMP0282,Bobby Brennan,Operations,Software engineer,stephanie55@williams-clayton.info,2025-06-07,55985,Needs Improvement,3,High,Remote
+EMP0283,Todd Martinez,Marketing,Community education officer,thompsonshelley@soto.org,2019-12-06,169098,Needs Improvement,1,High,Abu Dhabi
+EMP0284,Kendra Stone,AI Research,Clinical molecular geneticist,kcastro@gonzales.net,2020-02-23,138578,Exceeds Expectations,6,Medium,Riyadh
+EMP0285,Mark Cervantes,Finance,Ergonomist,rollinsdavid@leonard.com,2022-01-21,141474,Critical,4,High,Remote
+EMP0286,Brian Jackson,Legal,Control and instrumentation engineer,shannonfranco@higgins-butler.biz,2021-06-02,133876,Meets Expectations,4,High,Remote
+EMP0287,Lauren Rice,Sales,Systems analyst,qhampton@cummings-brown.org,2018-09-30,114919,Exceeds Expectations,6,Medium,Dubai
+EMP0288,Mallory Walker,Legal,Adult guidance worker,rturner@henderson.info,2025-12-22,92305,Needs Improvement,3,Low,Dubai
+EMP0289,Michael Fields,Sales,"Designer, fashion/clothing",scottshaffer@lamb.org,2024-08-05,122500,Needs Improvement,4,High,Remote
+EMP0290,Deborah Barnes,HR,"Development worker, community",catherinehancock@freeman.com,2018-06-16,161367,Needs Improvement,4,Low,Riyadh
+EMP0291,Stephen Velazquez,Procurement,"Copywriter, advertising",fgarcia@dunn-olsen.com,2018-07-14,159017,Needs Improvement,6,Low,Dubai
+EMP0292,Jeffery Johnson,Legal,Naval architect,parkerroberto@watkins-frye.com,2025-09-11,140239,Meets Expectations,1,Low,Remote
+EMP0293,April Duncan,Engineering,"Designer, blown glass/stained glass",marksbrandon@torres.com,2021-11-19,78090,Exceeds Expectations,2,High,Riyadh
+EMP0294,Deborah Melton,Sales,Clinical cytogeneticist,jameswhite@schaefer.com,2022-09-10,145362,Exceeds Expectations,5,Low,Remote
+EMP0295,Maureen Kennedy,Sales,Soil scientist,stephen55@scott.com,2023-12-18,142521,Critical,1,High,Abu Dhabi
+EMP0296,Kevin Elliott,Marketing,Financial planner,lindaholt@wright.com,2022-03-21,141193,Critical,3,High,Riyadh
+EMP0297,Theresa Moore,Operations,Armed forces logistics/support/administrative officer,ghunter@patel.org,2019-01-14,74739,Exceeds Expectations,6,Low,Remote
+EMP0298,John Jones,Marketing,"Designer, furniture",paul47@solomon.com,2025-07-27,146446,Exceeds Expectations,3,Medium,Remote
+EMP0299,Yvette Donaldson,Operations,"Therapist, nutritional",snydertina@smith.org,2025-12-30,119862,Critical,2,Low,Abu Dhabi
+EMP0300,Sandra Henry,Finance,"Scientist, audiological",khernandez@allen.info,2024-11-02,163500,Meets Expectations,6,Medium,Dubai
+EMP0301,Tammy Hickman,Sales,Insurance claims handler,charles25@lopez.info,2024-10-20,136075,Exceeds Expectations,5,High,Riyadh
+EMP0302,Larry Jackson,AI Research,"Exhibitions officer, museum/gallery",wtrujillo@holloway-reilly.net,2022-07-06,86289,Meets Expectations,3,High,Abu Dhabi
+EMP0303,Kevin Leon,Finance,Chief of Staff,scottrichard@holder.com,2025-08-24,97685,Meets Expectations,2,Medium,Dubai
+EMP0304,Vanessa Frazier,Sales,"Engineer, building services",amanda53@gibson.info,2023-01-04,141707,Critical,5,Low,Dubai
+EMP0305,Amanda Hill,Finance,Amenity horticulturist,nicolejarvis@gray-mueller.com,2024-01-30,126078,Critical,6,High,Remote
+EMP0306,Angela Buck,Marketing,Communications engineer,victoriajohnson@baker.com,2025-11-03,152687,Critical,5,Low,Abu Dhabi
+EMP0307,Lance Smith,Sales,"Engineer, electrical",mitchelllaura@garcia-smith.com,2022-05-18,64441,Critical,4,High,Riyadh
+EMP0308,Michael Bryan,HR,Tax inspector,ohayes@galvan.com,2021-09-05,92700,Meets Expectations,4,High,Dubai
+EMP0309,Eric Garcia,Finance,Psychotherapist,rodriguezmichael@sanchez.com,2021-01-31,85112,Needs Improvement,2,Low,Riyadh
+EMP0310,Kimberly Ortega,Operations,Radio producer,samanthabradford@davis.net,2024-10-04,135707,Needs Improvement,1,Medium,Abu Dhabi
+EMP0311,Kevin Montgomery,Marketing,"Surveyor, planning and development",jessica48@goodwin.com,2023-05-24,116945,Meets Expectations,6,Medium,Dubai
+EMP0312,Thomas Adams,Marketing,"Scientist, research (life sciences)",tonyacraig@martinez.com,2019-06-05,89206,Meets Expectations,2,High,Riyadh
+EMP0313,Tiffany Quinn,Procurement,Architect,rosekeith@patel.com,2022-09-01,55798,Exceeds Expectations,1,Low,Riyadh
+EMP0314,Rebecca Mills,Operations,"Programmer, multimedia",nburton@robinson.com,2020-01-27,154205,Exceeds Expectations,4,High,Riyadh
+EMP0315,Michelle Saunders,AI Research,Chartered accountant,mindysparks@miller-koch.net,2021-09-04,171601,Meets Expectations,6,Medium,Riyadh
+EMP0316,Sean Reyes,Product,"Administrator, charities/voluntary organisations",charles07@carlson.com,2023-08-12,64129,Exceeds Expectations,2,Medium,Remote
+EMP0317,Barbara Martin,Product,Operations geologist,fingram@patterson.org,2018-11-15,166750,Meets Expectations,3,High,Abu Dhabi
+EMP0318,Julie Kennedy,Sales,Artist,aimee66@cameron.org,2018-11-19,128706,Needs Improvement,4,Low,Riyadh
+EMP0319,Laurie Cohen,Marketing,"Surveyor, building control",christophercross@murillo-taylor.net,2019-02-20,72835,Needs Improvement,2,Medium,Dubai
+EMP0320,Evan Taylor,AI Research,Equality and diversity officer,jamessutton@wilkinson-grant.com,2021-01-04,162858,Meets Expectations,2,Low,Dubai
+EMP0321,Amy Martinez,AI Research,Trading standards officer,nelsonkimberly@miller.com,2023-01-09,145702,Critical,2,Low,Riyadh
+EMP0322,Jacob Lawson,Procurement,Furniture conservator/restorer,therrera@smith-michael.org,2022-04-07,126976,Meets Expectations,2,Medium,Remote
+EMP0323,Spencer Luna,Product,"Administrator, sports",colinroberts@smith.com,2019-05-16,125882,Critical,1,Low,Remote
+EMP0324,Dale Williams,Marketing,"Engineer, civil (consulting)",michael30@riley-murphy.com,2019-08-25,164860,Meets Expectations,2,High,Riyadh
+EMP0325,Robert Thomas,Engineering,Community arts worker,robertwheeler@montgomery.biz,2025-06-26,58248,Needs Improvement,4,High,Remote
+EMP0326,Christine Tate,AI Research,Operations geologist,suttonshane@norton.com,2020-03-17,47143,Exceeds Expectations,4,Low,Riyadh
+EMP0327,Valerie Kelley,Sales,Chartered loss adjuster,frederick05@hunter.info,2019-01-23,150710,Needs Improvement,1,Medium,Dubai
+EMP0328,Jesus Quinn,Procurement,"Buyer, retail",martinezmatthew@hughes.com,2023-07-02,96027,Needs Improvement,5,Medium,Dubai
+EMP0329,Carol Alexander,Legal,"Designer, graphic",lleblanc@sanchez.org,2022-10-10,177187,Critical,5,Medium,Dubai
+EMP0330,Bruce Oliver,HR,Quality manager,lchavez@walker-lopez.org,2022-07-18,70344,Critical,3,Medium,Riyadh
+EMP0331,Maurice Webb,HR,Theatre stage manager,katherinethomas@krueger.com,2024-02-25,97181,Critical,5,Low,Dubai
+EMP0332,Nicole Hernandez,Engineering,"Surveyor, insurance",karendaniel@hardy.info,2019-10-05,80923,Needs Improvement,4,High,Remote
+EMP0333,Christopher Schmidt,HR,"Nurse, children's",stewartpatrick@meyer.com,2026-01-03,81642,Needs Improvement,5,Medium,Abu Dhabi
+EMP0334,Edward Griffin,Legal,Mental health nurse,erincarroll@wilson-garner.com,2023-07-31,123442,Needs Improvement,5,High,Remote
+EMP0335,Connor Delgado,Procurement,"Engineer, communications",snyderanna@carter.biz,2019-10-31,123588,Critical,1,Medium,Riyadh
+EMP0336,Jacqueline Bennett,Finance,Product manager,cruztraci@ramsey.com,2025-06-25,154193,Needs Improvement,6,High,Dubai
+EMP0337,Larry Miller,Procurement,Retail manager,williammccormick@vaughan.org,2025-03-12,169410,Needs Improvement,6,High,Abu Dhabi
+EMP0338,Brittany Davis,Engineering,Health promotion specialist,jessicahiggins@wilson.com,2022-08-04,170946,Meets Expectations,5,High,Remote
+EMP0339,Theresa Nunez,HR,Amenity horticulturist,leslie21@foster.biz,2021-08-13,108490,Exceeds Expectations,5,High,Dubai
+EMP0340,Terri Burns,Operations,Accounting technician,aliciaparks@bailey.com,2023-11-08,49964,Critical,3,Medium,Abu Dhabi
+EMP0341,Damon Campbell,Legal,Ship broker,zmartinez@singleton.info,2023-12-14,98448,Critical,5,High,Remote
+EMP0342,Wesley Johnson,Engineering,Research scientist (medical),vphillips@jordan-ramos.com,2024-05-30,81197,Meets Expectations,5,Medium,Remote
+EMP0343,Rachel Guerra,Marketing,"Engineer, building services",courtneygarcia@king.com,2024-08-27,143782,Needs Improvement,2,Medium,Riyadh
+EMP0344,Jeffrey Barker,Marketing,Retail manager,prattamanda@clark.com,2020-12-08,137874,Needs Improvement,5,Medium,Abu Dhabi
+EMP0345,Carla Edwards,Operations,"Engineer, drilling",taylor56@mack-allen.biz,2025-01-13,118139,Needs Improvement,2,Medium,Riyadh
+EMP0346,Craig Ross,Operations,"Journalist, magazine",deanlinda@rodriguez.biz,2022-08-04,173189,Needs Improvement,4,Medium,Riyadh
+EMP0347,Shelby Coleman,AI Research,"Engineer, biomedical",mbeck@cowan.com,2021-02-23,76948,Critical,4,Medium,Abu Dhabi
+EMP0348,David Anthony,AI Research,Consulting civil engineer,laurie70@rodriguez.org,2023-01-30,56027,Needs Improvement,6,Low,Riyadh
+EMP0349,Sarah Burke,Product,"Research officer, political party",rpeterson@mack.biz,2025-05-31,112225,Critical,2,Low,Riyadh
+EMP0350,Christina Mora,Marketing,IT technical support officer,natashaharrison@burgess.info,2020-12-15,116203,Meets Expectations,1,High,Abu Dhabi
+EMP0351,Jeffery Glover,Operations,"Scientist, research (physical sciences)",panderson@ashley-taylor.com,2018-06-24,58307,Meets Expectations,6,Low,Dubai
+EMP0352,Tracy Martinez,Finance,Marketing executive,jonathan57@anderson.org,2020-05-07,153344,Needs Improvement,6,Medium,Dubai
+EMP0353,Chad Reyes,HR,"Teacher, early years/pre",brookestout@phillips-stevens.org,2018-08-28,46358,Meets Expectations,4,High,Remote
+EMP0354,William Bradshaw,Product,Housing manager/officer,agordon@andrade-ruiz.net,2021-01-17,97286,Needs Improvement,3,Medium,Dubai
+EMP0355,Daniel Williams,Finance,Site engineer,clarkkristin@howard.net,2019-10-30,105875,Exceeds Expectations,2,Medium,Abu Dhabi
+EMP0356,Tina Hines,Engineering,"Designer, industrial/product",zsoto@roberts.com,2025-10-12,149069,Critical,2,High,Riyadh
+EMP0357,James Romero,Engineering,"Engineer, biomedical",jensenjacqueline@payne.com,2019-03-03,47429,Needs Improvement,5,High,Dubai
+EMP0358,Leah Gillespie,Sales,Police officer,ehicks@douglas.org,2025-04-29,119596,Critical,6,High,Remote
+EMP0359,Alex Williamson,HR,"Engineer, manufacturing systems",arroyodean@gibson.com,2024-02-23,177176,Critical,3,Low,Dubai
+EMP0360,Robert Archer,Sales,Field trials officer,brittneygordon@collier.com,2024-03-15,87596,Critical,6,Medium,Abu Dhabi
+EMP0361,Christopher Gill,Engineering,Early years teacher,davidbecker@howard.com,2020-11-18,133371,Needs Improvement,5,High,Abu Dhabi
+EMP0362,Jeanette Solis,HR,Licensed conveyancer,hmiller@williams-bennett.com,2022-11-16,151296,Critical,5,Medium,Dubai
+EMP0363,Shawn Ramsey,Legal,Emergency planning/management officer,gregoryphelps@robinson.net,2025-11-06,70004,Meets Expectations,2,Medium,Riyadh
+EMP0364,Joe Garrison,Operations,Magazine features editor,xlane@wilson-moran.com,2018-09-14,46790,Needs Improvement,4,Low,Remote
+EMP0365,Jennifer Green,AI Research,Sports administrator,amanda05@johnson-nichols.info,2024-02-02,131409,Needs Improvement,5,High,Dubai
+EMP0366,Anthony Mitchell,AI Research,Theatre manager,thomasford@barrera.net,2024-09-14,139254,Meets Expectations,1,High,Dubai
+EMP0367,Debbie Brown,Product,Clinical cytogeneticist,iramirez@burton.com,2018-11-28,125427,Meets Expectations,4,High,Riyadh
+EMP0368,Christopher Alvarez,Finance,Advertising account executive,jamessnow@jones.com,2021-06-18,122342,Needs Improvement,5,Low,Abu Dhabi
+EMP0369,Scott Osborne,HR,Secretary/administrator,matthewmoore@roach-rogers.com,2024-01-14,170352,Meets Expectations,4,High,Riyadh
+EMP0370,Tristan Cook,Legal,Curator,christophergarcia@gutierrez.biz,2026-03-01,168424,Meets Expectations,2,High,Dubai
+EMP0371,Matthew Robinson,Marketing,Graphic designer,christianhart@hamilton.com,2021-02-21,162112,Needs Improvement,1,High,Dubai
+EMP0372,Michael Price,Engineering,Curator,fleach@ballard-humphrey.net,2023-01-10,177510,Meets Expectations,5,High,Abu Dhabi
+EMP0373,Patricia Graham,HR,Trade mark attorney,ywilliamson@garcia.com,2021-05-30,131014,Critical,1,High,Abu Dhabi
+EMP0374,Judith Barber,Procurement,Advertising account executive,gabrielscott@johnson.biz,2024-11-12,173143,Exceeds Expectations,5,Medium,Dubai
+EMP0375,Alexandria Harvey,Product,"Clinical scientist, histocompatibility and immunogenetics",davidmarks@rios-jordan.org,2018-05-18,79588,Critical,4,High,Dubai
+EMP0376,Justin Quinn,Marketing,Legal executive,rachel92@snyder.biz,2024-08-21,166209,Needs Improvement,6,Low,Remote
+EMP0377,Joy Berry,AI Research,Chief Financial Officer,phillipharrison@meyer.info,2026-05-03,45790,Meets Expectations,5,Low,Dubai
+EMP0378,James Wilson,Legal,Multimedia specialist,odeleon@davis.org,2020-05-01,135316,Exceeds Expectations,5,Low,Dubai
+EMP0379,George Burke,Product,Operations geologist,rickyware@liu-davis.com,2021-07-24,53319,Needs Improvement,4,Low,Abu Dhabi
+EMP0380,John Watson,Legal,Herpetologist,tiffanyharris@cox.com,2025-01-17,143162,Critical,4,Medium,Remote
+EMP0381,Arthur Parsons,Finance,"Buyer, retail",jasminyoung@nelson-evans.com,2024-03-22,79862,Needs Improvement,1,Low,Remote
+EMP0382,Courtney Sanchez,Marketing,"Clinical scientist, histocompatibility and immunogenetics",michael81@osborn.com,2020-01-13,78383,Meets Expectations,1,Low,Riyadh
+EMP0383,John Wheeler,Product,Nutritional therapist,ronnieruiz@giles-dixon.com,2020-06-17,156182,Critical,2,Low,Remote
+EMP0384,Cameron Yoder,Sales,"Investment banker, operational",latoya27@woods-cooper.com,2025-06-10,85664,Needs Improvement,2,High,Dubai
+EMP0385,Colleen Reyes,Engineering,Information officer,xhogan@nielsen.com,2018-05-22,154901,Exceeds Expectations,2,Low,Dubai
+EMP0386,Danielle Schmidt,Finance,"Designer, exhibition/display",michaelmaxwell@jones.com,2020-01-19,53801,Critical,5,High,Dubai
+EMP0387,Angela Lewis,Operations,Mining engineer,gary30@gill.org,2020-12-09,56596,Critical,4,Low,Abu Dhabi
+EMP0388,Joshua Stafford,Engineering,Learning mentor,scottgregory@miller.com,2023-12-07,81735,Needs Improvement,2,High,Riyadh
+EMP0389,Timothy Wade,Procurement,"Engineer, broadcasting (operations)",gmartin@weaver.com,2021-07-10,129060,Meets Expectations,3,Low,Abu Dhabi
+EMP0390,Whitney Hill,Legal,Ceramics designer,dunlapjodi@williams.com,2020-06-24,123774,Needs Improvement,1,High,Abu Dhabi
+EMP0391,Jon Dawson,Legal,"Therapist, speech and language",tannerpatrick@smith-thomas.org,2022-04-29,174924,Exceeds Expectations,3,High,Remote
+EMP0392,Jennifer Cox,Marketing,Research scientist (maths),tammysnyder@griffin.org,2023-08-14,128554,Critical,4,Low,Riyadh
+EMP0393,Amanda Lopez,Legal,Hotel manager,epatterson@bates.com,2021-12-05,93202,Critical,2,Low,Riyadh
+EMP0394,Ronald Little,HR,Civil Service administrator,qclark@jackson.com,2022-03-27,166379,Exceeds Expectations,5,Medium,Remote
+EMP0395,Ruth Valencia,Marketing,Technical brewer,theresabailey@mcgee.info,2023-12-28,80151,Critical,2,Medium,Abu Dhabi
+EMP0396,Janice Acosta,Sales,Merchant navy officer,phillipserica@neal.org,2018-06-19,65727,Critical,3,Low,Abu Dhabi
+EMP0397,Patrick Glass,Engineering,"Investment banker, operational",solomonsamuel@cunningham.com,2024-06-02,115375,Critical,6,High,Dubai
+EMP0398,Jennifer Durham,Finance,Medical sales representative,brandonhartman@hernandez.com,2023-01-10,94325,Meets Expectations,4,Low,Riyadh
+EMP0399,Matthew Allen,AI Research,Wellsite geologist,tjohnson@wright-garcia.com,2020-10-05,49019,Meets Expectations,2,High,Dubai
+EMP0400,Kim Morris,Product,Logistics and distribution manager,amandaharper@morrison-bailey.com,2023-10-09,108594,Meets Expectations,4,Low,Riyadh
+EMP0401,Andrew Lewis,AI Research,Fashion designer,stacyalvarado@duncan-jones.info,2020-04-19,144788,Critical,5,High,Riyadh
+EMP0402,Teresa Torres,AI Research,"Scientist, physiological",wkirby@diaz.net,2020-05-20,113566,Needs Improvement,5,Medium,Remote
+EMP0403,Michelle Cole,Finance,Brewing technologist,hmiles@horne.com,2022-05-13,168074,Needs Improvement,2,Medium,Riyadh
+EMP0404,Ian Morgan,Legal,Local government officer,zsmall@rich-crane.biz,2019-04-04,56984,Meets Expectations,6,Low,Dubai
+EMP0405,Joshua Malone,AI Research,Arboriculturist,gonzalessamantha@ellis-kennedy.com,2024-10-18,154465,Needs Improvement,2,Low,Riyadh
+EMP0406,Meghan Williams,Operations,Quality manager,garciakrystal@davis.org,2024-08-25,144572,Meets Expectations,4,High,Riyadh
+EMP0407,Theresa Morgan,AI Research,Research scientist (physical sciences),sandovaljoshua@brown-hernandez.com,2019-01-10,173089,Critical,4,Low,Riyadh
+EMP0408,Kevin Bell,HR,Market researcher,qjohnson@perry.com,2022-02-25,81689,Critical,2,High,Dubai
+EMP0409,John Peters,Marketing,"Engineer, drilling",katherineglenn@west.info,2021-02-18,53866,Exceeds Expectations,6,Low,Dubai
+EMP0410,Deborah Duncan,Legal,"Scientist, water quality",blarson@wilcox.com,2024-05-21,81042,Meets Expectations,1,High,Abu Dhabi
+EMP0411,Heather Robertson,Engineering,"Programmer, systems",xsantos@johnson.com,2023-01-19,102336,Critical,3,Low,Remote
+EMP0412,Dean Arnold,Product,Energy manager,chadhodge@munoz.com,2019-05-03,49123,Exceeds Expectations,5,High,Remote
+EMP0413,David Patterson,Engineering,Recruitment consultant,lopezdawn@davis-floyd.biz,2022-02-15,49384,Needs Improvement,5,Medium,Dubai
+EMP0414,Vincent Moore,Marketing,Wellsite geologist,zcampbell@perez.com,2025-06-01,157872,Meets Expectations,1,Low,Abu Dhabi
+EMP0415,Joshua Perez,Operations,Heritage manager,avilawendy@roth.com,2020-01-09,95313,Needs Improvement,3,Medium,Remote
+EMP0416,Jason Hayes,Finance,Environmental education officer,brittanybailey@dawson.com,2024-05-19,142793,Critical,4,High,Abu Dhabi
+EMP0417,Meagan Brooks,Operations,"Restaurant manager, fast food",grayedgar@mccullough.com,2021-10-15,123636,Exceeds Expectations,6,High,Dubai
+EMP0418,Jessica Smith,Finance,"Development worker, international aid",lyonskelly@gomez.net,2023-12-17,151241,Critical,4,High,Remote
+EMP0419,Christopher Bailey,Engineering,Airline pilot,rebeccapayne@williams.info,2019-08-25,47477,Meets Expectations,1,Medium,Remote
+EMP0420,Taylor Harrison,Sales,Petroleum engineer,stephanie38@munoz.com,2025-11-24,69998,Exceeds Expectations,2,Low,Remote
+EMP0421,Brittany Jones,AI Research,"Librarian, academic",fmitchell@maxwell.biz,2021-11-21,57205,Exceeds Expectations,6,Medium,Dubai
+EMP0422,Diana Holder,HR,Clinical molecular geneticist,maryjennings@ramirez-bailey.com,2020-09-18,127440,Exceeds Expectations,2,High,Abu Dhabi
+EMP0423,Daniel Thomas,Legal,Mechanical engineer,castrostephanie@lee.com,2019-05-04,65168,Needs Improvement,2,High,Abu Dhabi
+EMP0424,Connie Murray,Procurement,IT technical support officer,marvinfarley@jackson.com,2020-08-23,147015,Needs Improvement,4,High,Abu Dhabi
+EMP0425,John Edwards,Finance,"Producer, radio",kcoleman@dixon.biz,2021-11-26,176279,Needs Improvement,1,Low,Remote
+EMP0426,Timothy Castillo,Operations,Arts development officer,cjones@jenkins-beck.com,2022-10-26,64927,Needs Improvement,5,High,Remote
+EMP0427,Troy Garcia,Sales,Chartered legal executive (England and Wales),marissa56@robinson.com,2023-05-31,52766,Needs Improvement,4,Medium,Abu Dhabi
+EMP0428,Jennifer Howe,Sales,Police officer,karen12@barnes.com,2023-12-21,143415,Critical,2,High,Remote
+EMP0429,Paula Hunt,Finance,Make,ruizcharles@higgins-campbell.com,2018-06-23,122431,Meets Expectations,6,Low,Dubai
+EMP0430,Danielle Wiggins,AI Research,Trade union research officer,audrey03@meyer.com,2023-07-26,85428,Critical,6,High,Abu Dhabi
+EMP0431,Leslie Clark,Legal,Gaffer,sherri50@ortega.com,2023-04-29,128015,Needs Improvement,1,Low,Dubai
+EMP0432,Jill Mcclure,AI Research,"Engineer, land",cford@lowe-mcclain.com,2021-09-10,161584,Needs Improvement,3,Low,Abu Dhabi
+EMP0433,Mark Stokes,Finance,"Social research officer, government",whitesarah@hebert-johnston.biz,2023-05-17,94123,Critical,4,High,Remote
+EMP0434,Timothy Warren,Finance,Catering manager,oliverallison@jones.com,2022-11-23,51884,Exceeds Expectations,3,High,Dubai
+EMP0435,Samantha Romero,Procurement,Health and safety adviser,operez@warren.info,2025-06-19,130047,Critical,1,Medium,Remote
+EMP0436,Dr. Eric Hayes,Legal,Rural practice surveyor,christinesmith@house.com,2025-07-07,67203,Meets Expectations,5,High,Abu Dhabi
+EMP0437,Joshua Dawson,Legal,Chartered public finance accountant,chris09@hunt.net,2020-03-14,89433,Meets Expectations,3,Medium,Riyadh
+EMP0438,Terry Robinson,Product,"Designer, furniture",antonio90@jackson.com,2019-05-07,83255,Exceeds Expectations,2,Medium,Riyadh
+EMP0439,Thomas Chambers,Legal,"Doctor, general practice",troymercer@quinn.net,2024-01-25,123578,Critical,1,Medium,Riyadh
+EMP0440,Courtney Johnson,Operations,Podiatrist,njohnson@cline-ward.com,2018-08-17,174971,Meets Expectations,4,Low,Abu Dhabi
+EMP0441,Mr. Thomas Ellison,AI Research,Advertising copywriter,mark52@lynn.net,2020-02-03,46774,Critical,3,High,Remote
+EMP0442,Sharon Schmidt,Sales,Commercial horticulturist,matthew26@coleman.info,2019-09-22,160401,Needs Improvement,4,High,Abu Dhabi
+EMP0443,Alexis Ward,AI Research,"Nurse, children's",vmoore@novak-krueger.com,2020-06-11,129060,Meets Expectations,4,Medium,Abu Dhabi
+EMP0444,Anna Contreras,Legal,Chief Operating Officer,richard69@jones.com,2020-12-15,128660,Needs Improvement,6,High,Remote
+EMP0445,Frank Smith,Procurement,Television/film/video producer,morenoblake@young-cohen.info,2022-10-30,108550,Needs Improvement,4,Medium,Remote
+EMP0446,Kirsten Merritt,Sales,"Engineer, broadcasting (operations)",nicole28@jimenez-bennett.info,2023-10-24,74855,Meets Expectations,5,High,Abu Dhabi
+EMP0447,Anthony Taylor,Marketing,Network engineer,ewilliams@smith.com,2025-06-01,52055,Critical,6,Low,Remote
+EMP0448,Christina Sanchez,AI Research,Senior tax professional/tax inspector,mooremelanie@smith-wolfe.com,2020-10-29,63129,Critical,6,Medium,Abu Dhabi
+EMP0449,Debra Bonilla,AI Research,Public relations account executive,amoore@morris.com,2021-04-20,108444,Needs Improvement,6,Low,Remote
+EMP0450,Harold Hayden,Legal,Environmental health practitioner,bennettamy@thompson.info,2025-04-08,64389,Critical,5,Medium,Remote
+EMP0451,Kevin Lane,Marketing,Phytotherapist,brett65@wong-murillo.com,2024-05-19,177805,Critical,5,Low,Riyadh
+EMP0452,Hayden Davis,Marketing,Advertising account planner,osbornetammy@erickson-wyatt.com,2023-10-30,67277,Exceeds Expectations,2,High,Riyadh
+EMP0453,Theodore Gaines,HR,Museum/gallery exhibitions officer,katiegomez@joseph.net,2019-05-20,56612,Critical,3,Medium,Dubai
+EMP0454,Angela Wilkinson,Engineering,Recruitment consultant,robertlee@wagner.net,2020-09-16,70849,Needs Improvement,2,High,Abu Dhabi
+EMP0455,Cynthia Carter,Product,"Producer, radio",charles84@williams.net,2019-11-15,143073,Critical,4,High,Abu Dhabi
+EMP0456,Michelle Mosley,Sales,Medical laboratory scientific officer,james06@anderson.com,2025-07-23,51438,Critical,1,Medium,Remote
+EMP0457,James Reese,Finance,Computer games developer,hperez@garrison-gay.info,2020-01-06,75426,Meets Expectations,3,Medium,Riyadh
+EMP0458,Tommy Mitchell,Product,Chief of Staff,anna96@alexander.com,2019-02-14,99229,Critical,3,Medium,Dubai
+EMP0459,Fernando Johnson,Product,"Research officer, trade union",nwillis@vincent-hughes.info,2020-05-15,163606,Needs Improvement,1,Medium,Dubai
+EMP0460,Heather Sexton,Finance,Agricultural engineer,samuel72@gallagher.info,2023-03-30,50920,Needs Improvement,6,Low,Abu Dhabi
+EMP0461,Kevin Huerta,Operations,Engineering geologist,jacobbarker@campbell.net,2024-07-08,90731,Meets Expectations,3,High,Remote
+EMP0462,Colin Richardson,Product,Systems developer,destinymedina@torres.com,2020-10-26,105779,Critical,6,Low,Abu Dhabi
+EMP0463,Jeffrey Gonzalez,Legal,Writer,garciadevin@holmes-davis.biz,2020-11-15,148699,Exceeds Expectations,6,High,Abu Dhabi
+EMP0464,Richard French,Product,Operational researcher,dfuller@choi-king.info,2023-10-25,157604,Critical,1,High,Abu Dhabi
+EMP0465,Jennifer Randolph,Operations,"Designer, interior/spatial",lisa59@mosley.net,2020-07-03,117966,Exceeds Expectations,5,Low,Abu Dhabi
+EMP0466,Shawn Taylor,Sales,"Surveyor, quantity",phernandez@schneider-miller.com,2018-07-21,130454,Meets Expectations,4,Low,Riyadh
+EMP0467,Mark Allison,Product,Ecologist,lorimclaughlin@vega.com,2024-06-21,127157,Critical,5,Medium,Dubai
+EMP0468,Sarah Murphy,Sales,Agricultural consultant,matthewhensley@miller.com,2021-10-02,137270,Critical,5,Low,Riyadh
+EMP0469,Heather Smith,Procurement,Communications engineer,wrightamber@johnson.com,2022-03-02,67217,Meets Expectations,3,Low,Abu Dhabi
+EMP0470,Tara Williams,AI Research,"Civil engineer, contracting",youngdaniel@singleton.org,2024-07-14,75657,Meets Expectations,3,High,Abu Dhabi
+EMP0471,Sherri Powell,Marketing,Tourist information centre manager,steve18@carrillo.biz,2022-06-13,146833,Critical,5,Low,Remote
+EMP0472,Billy Webb,Legal,Toxicologist,dennisjennifer@berger.com,2019-04-23,93694,Critical,6,High,Abu Dhabi
+EMP0473,Phillip Morris,Marketing,Research scientist (physical sciences),hansenthomas@ballard.org,2020-11-24,88742,Critical,3,Low,Abu Dhabi
+EMP0474,Jesse Middleton,Sales,"Sound technician, broadcasting/film/video",dillon28@johnson.com,2025-10-08,163227,Exceeds Expectations,3,Low,Remote
+EMP0475,Katie Garrett,HR,"Scientist, forensic",heather24@blackwell-patterson.com,2022-03-25,96151,Critical,5,High,Remote
+EMP0476,Mark Tyler,Legal,Museum/gallery exhibitions officer,morenoannette@jackson.org,2021-07-30,173902,Critical,6,Medium,Remote
+EMP0477,Gabriel Williams,HR,Architect,kbates@vazquez.biz,2022-02-22,66671,Exceeds Expectations,2,Medium,Dubai
+EMP0478,Heather Jordan,AI Research,"Social research officer, government",jorge94@burke-cooper.com,2022-04-27,103941,Needs Improvement,2,Medium,Remote
+EMP0479,Tanner Adams,Marketing,Commercial horticulturist,gwyatt@mcneil.net,2023-04-05,178904,Exceeds Expectations,5,Low,Riyadh
+EMP0480,Robert Harris,Marketing,Analytical chemist,robert16@boone.net,2025-07-29,141170,Exceeds Expectations,6,Medium,Abu Dhabi
+EMP0481,Brian Cross DDS,Legal,"Pharmacist, community",carterscott@martin.biz,2018-06-05,71847,Meets Expectations,3,Low,Remote
+EMP0482,Melissa Wilcox,AI Research,"Teacher, secondary school",patty11@colon.com,2025-12-31,136377,Exceeds Expectations,4,Low,Abu Dhabi
+EMP0483,Cameron Parker,Operations,Occupational hygienist,joeweber@soto-tucker.com,2023-04-01,136915,Critical,2,High,Abu Dhabi
+EMP0484,Kyle Clark,Operations,Arboriculturist,blopez@smith-martin.info,2024-05-28,99248,Exceeds Expectations,5,Medium,Riyadh
+EMP0485,Casey Pace,Procurement,Animal technologist,wbaker@castro.biz,2023-02-22,89139,Needs Improvement,6,Medium,Riyadh
+EMP0486,Nicole Taylor,Procurement,Field trials officer,pthompson@nolan.com,2025-01-20,115082,Exceeds Expectations,2,Medium,Dubai
+EMP0487,Mark Cox,AI Research,Social researcher,franksmith@ortiz-scott.com,2018-08-20,78262,Meets Expectations,2,Low,Riyadh
+EMP0488,Zachary Murphy,Operations,"Presenter, broadcasting",amanda31@mcdaniel.com,2021-10-30,147944,Critical,2,High,Riyadh
+EMP0489,Jacob Miller,Legal,"Teacher, early years/pre",gordonrichard@parks-wright.net,2024-03-18,143349,Critical,1,High,Dubai
+EMP0490,Richard Anderson,Legal,Secretary/administrator,carterjohn@adkins.com,2023-07-18,117935,Needs Improvement,4,Medium,Riyadh
+EMP0491,Martin Perry,Procurement,Human resources officer,mccoysteve@franklin.com,2023-11-02,45648,Exceeds Expectations,6,Medium,Riyadh
+EMP0492,Derrick Taylor,Finance,Information officer,wgriffin@chan-adams.org,2020-10-03,149258,Meets Expectations,4,Low,Remote
+EMP0493,Nicole Dunn,AI Research,Chartered public finance accountant,kbrewer@smith.org,2021-06-14,129637,Needs Improvement,3,High,Abu Dhabi
+EMP0494,Tyler Smith,Procurement,Advertising account executive,ygonzalez@anderson.com,2019-01-09,172228,Needs Improvement,6,Low,Dubai
+EMP0495,Kimberly Smith,Finance,Production engineer,robin27@hardy-mcdonald.info,2022-08-09,165476,Exceeds Expectations,1,Low,Remote
+EMP0496,Alison Flores,Product,Computer games developer,robertboyle@floyd.biz,2025-11-10,45177,Critical,2,High,Abu Dhabi
+EMP0497,Amber Cherry,AI Research,Physiotherapist,cynthia42@franco-jackson.biz,2021-11-01,86674,Needs Improvement,1,High,Riyadh
+EMP0498,Lindsey Martinez,AI Research,Records manager,xaguirre@perez-copeland.org,2024-11-20,66606,Needs Improvement,6,High,Abu Dhabi
+EMP0499,Chris Francis,Engineering,Risk manager,weavercynthia@andersen.info,2024-03-23,148898,Needs Improvement,6,High,Abu Dhabi
+EMP0500,Corey Martinez,Legal,"Geologist, engineering",autumn04@lee.com,2024-04-09,68907,Exceeds Expectations,1,Low,Remote
